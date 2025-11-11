@@ -36,7 +36,7 @@ This NotesApp built with React JS. It lets users create, organize, and manage no
 
 1. Clone the repository:
     ```
-     bash git clone https://github.com/yourusername/NotesApp.git
+     bash git clone https://github.com/Ravichandran-D/Notes_App.git
     ```
 2. Install dependencies using `npm install`.
 3. Run the application using `npm start`.
